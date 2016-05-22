@@ -1,0 +1,17 @@
+﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  Animacja.cpp
+c:\users\kapi\documents\visual studio 2015\projects\projektojp2\Animacja.h(401): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\kapi\documents\visual studio 2015\projects\projektojp2\Animacja.h(402): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\kapi\documents\visual studio 2015\projects\projektojp2\Animacja.h(404): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kapi\documents\visual studio 2015\projects\projektojp2\Animacja.h(408): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kapi\documents\visual studio 2015\projects\projektojp2\Animacja.h(462): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kapi\documents\visual studio 2015\projects\projektojp2\Animacja.h(463): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  WindowsFormApplication1.cpp
+c:\users\kapi\documents\visual studio 2015\projects\projektojp2\Animacja.h(401): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\kapi\documents\visual studio 2015\projects\projektojp2\Animacja.h(402): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\kapi\documents\visual studio 2015\projects\projektojp2\Animacja.h(404): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kapi\documents\visual studio 2015\projects\projektojp2\Animacja.h(408): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kapi\documents\visual studio 2015\projects\projektojp2\Animacja.h(462): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kapi\documents\visual studio 2015\projects\projektojp2\Animacja.h(463): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  ProjektOJP2.vcxproj -> c:\users\kapi\documents\visual studio 2015\Projects\ProjektOJP2\Debug\ProjektOJP2.exe
